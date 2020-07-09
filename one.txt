@@ -1,1 +1,2 @@
-line one -- first commit
+line one -- first commit with push
+line two -- second commit without push
