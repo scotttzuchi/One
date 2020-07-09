@@ -1,2 +1,3 @@
 line one -- first commit with push
 line two -- second commit without push
+line three -- three commit without push
